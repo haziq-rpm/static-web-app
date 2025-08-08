@@ -1,6 +1,6 @@
 step by step procedure for making this static web app:
 1. Converted my CV from pdf to seperate .html and .css files
-2. By following this **[Quickstart manual]([https://my-resume.azurestaticapps.net](https://learn.microsoft.com/en-us/azure/static-web-apps/get-started-portal?tabs=vanilla-javascript&pivots=github))**, first created a github repository.
+2. By following this [Quickstart manual]([https://my-resume.azurestaticapps.net](https://learn.microsoft.com/en-us/azure/static-web-apps/get-started-portal?tabs=vanilla-javascript&pivots=github)), first created a github repository.
 3. In the /src folder, uploaded my .html and .css files and removed the default ones.
 4. Added other files used in the webpage to this folder too (using the full path in the html code).
 5. from the azure portal, searched for static web app option and created a new static web app.
